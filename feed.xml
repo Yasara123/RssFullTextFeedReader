@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE rss PUBLIC
+  "-//Netscape Communications//DTD RSS 0.91//EN"
+  "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+
+<rss version="0.91">
+
+  <channel>
+
+    <title>null</title>
+    <description>Useful Java code examples</description>
+    <link>http://www.rgagnon.com/howto.html</link>
+    <language>en</language>
+    <copyright>(c)Real Gagnon 2007</copyright>    <pubDate>28 Dec 2015 13:50:17 +0530</pubDate>
+
+    <item>
+      <title>Real's HowTo</title>
+      <link>http://www.rgagnon.com/java-details/</link>
+      <description>Cool java snippet!</description>
+    </item>
+
+  </channel>
+
+</rss>
